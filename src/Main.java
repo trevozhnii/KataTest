@@ -1,10 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 public class Main {
-
     static char sign;
-
     public static void main(String[] args) throws Exception {
         System.out.print("Введите выражение: ");
         Scanner sc = new Scanner(System.in);
